@@ -1,0 +1,1 @@
+{"version":3,"file":"event-node.d.ts","sourceRoot":"","sources":["../../../../../../src/core/template/attribute-node/event-node/event-node.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,sCAAsC,CAAC;AAIpE,qBAAa,kBAAkB;;gBAaf,OAAO,EAAE,WAAW,EAAE,IAAI,EAAE,YAAY,EAAE,KAAK,EAAE,MAAM,EAAE,KAAK,EAAE,OAAO;IAOnF,OAAO,CAAC,gBAAgB;CAe3B"}
